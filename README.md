@@ -1,2 +1,2 @@
-@_neobit
-aleixdnes@gmail.com
+- @_neobit
+- aleixdnes@gmail.com
