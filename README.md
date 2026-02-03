@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @NE0BIT
-- 👀 I’m interested in programing to learn and work someday
-- 🌱 I’m currently learning Python, Javascript, C#
-- 📫 How to reach me: @_neobit
-- ⚡ Fun fact: its 5 am at the moment of writing this
+@_neobit
+aleixdnes@gmail.com
